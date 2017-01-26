@@ -1,0 +1,23 @@
+{
+  "name": "cli-tac-tac-toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "vorpal": "^1.11.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DhammaLuke/cli-tac-tac-toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhammaLuke/cli-tac-tac-toe/issues"
+  },
+  "homepage": "https://github.com/DhammaLuke/cli-tac-tac-toe#readme"
+}
